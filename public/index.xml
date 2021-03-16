@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Petyuk</title>
+    <link>/</link>
+    <description>Recent content on Anthony Petyuk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Mar 2021 21:55:29 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/posts/about/</link>
+      <pubDate>Fri, 05 Mar 2021 23:20:21 -0800</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>A little bit about me</description>
+    </item>
+    
+    <item>
+      <title>Placeholder</title>
+      <link>/posts/placeholder/</link>
+      <pubDate>Sun, 07 Mar 2021 21:55:29 -0800</pubDate>
+      
+      <guid>/posts/placeholder/</guid>
+      <description>A little bit about me</description>
+    </item>
+    
+    <item>
+      <title>Archive</title>
+      <link>/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+  </channel>
+</rss>

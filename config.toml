@@ -1,0 +1,52 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Anthony Petyuk"
+theme = "PaperMod"
+
+[params]
+# ShowShareButtons = true
+defaultTheme = "dark"
+
+[params.profileMode]
+enabled = true
+title = "Anthony Petyuk"
+subtitle = "This is my website where I will put my various works"
+imageUrl = "/IMG_20200719_165334_2.jpg"
+imageTitle = "photo"
+imageWidth = 120
+imageHeight = 120
+
+  [[params.profileMode.buttons]]
+  name = "Archive"
+  url = "/archives"
+
+  [[params.profileMode.buttons]]
+  name = "About"
+  url = "/about"
+
+[[params.socialIcons]]
+name = "reddit"
+url = "https://www.reddit.com/user/Mechani5t"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/Mechani5t"
+
+
+[[menu.main]]
+    name = "Archive"
+    weight = 100
+    identifier = "archive"
+    url = "/archives"
+
+[[menu.main]]
+    name = "About"
+    weight = 100
+    identifier = "about"
+    url = "/about"
+
+[[menu.main]]
+    name = "Home"
+    weight = 100
+    identifier = "home"
+    url = "/"
