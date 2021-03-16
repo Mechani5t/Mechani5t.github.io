@@ -1,7 +1,8 @@
-baseURL = "/"
+baseURL = "https://Mechani5t.github.io"
 languageCode = "en-us"
 title = "Anthony Petyuk"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
 # ShowShareButtons = true
